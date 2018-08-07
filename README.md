@@ -90,7 +90,7 @@ Open/Create `<Your-App-name>-Bridging-Header.h`  and add:
 
 Open `AppDelegate.swift` ➜ `didFinishLaunchingWithOptions` and add:
 
-```objective-c
+```swift
 
 import Analytics
 
